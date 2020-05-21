@@ -1,2 +1,2 @@
 # Hackathons
-HackaThons from which i learned many new thing to sharpen my edge.
+HackaThons from which i have learned many new things to sharpen my edge.
