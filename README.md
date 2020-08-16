@@ -1,2 +1,2 @@
 # Hackathons
-HackaThons from which i have learned many new things to sharpen my edge.
+Here you can get the various hackathons challenges solution along with their problem statement and data set.All the challenges of ML, you can learn how to use the ML algos and various techniques to improve accuracy.
