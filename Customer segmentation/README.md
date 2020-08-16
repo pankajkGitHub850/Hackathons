@@ -5,6 +5,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 ### Rank in private leaderboard
-34th
+25th
+#### Kaggle notebook link
+https://www.kaggle.com/kagglepankaj/av-customer-segmentation-25th-rank
 ### Approach
 
