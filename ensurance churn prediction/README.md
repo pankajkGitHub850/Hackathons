@@ -1,4 +1,4 @@
-# machine-hack-churn-predictio (#48th)
+# machineHack-churn-prediction (#48th)
 I have attached code file(latest tried model), you can go through that for better understanding.if you stuck anywhere ping me.In the code file i have trained a voting classifier with lightgmb,xgboost,knn but got less than the lightgmb.
 # Problem statement
 To predict the insurance customer churn.
